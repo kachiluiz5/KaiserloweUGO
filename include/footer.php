@@ -9,7 +9,6 @@
                             <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                             <li><a href="#"><i class="lab la-twitter"></i></a></li>
                             <li><a href="#"><i class="lab la-youtube"></i></a></li>
-                            <li><a href="#"><i class="lab la-behance"></i></a></li>
                         </ul>
                     </div>
                 </div>
@@ -17,11 +16,10 @@
                     <div class="footer-widget">
                         <h3>Company</h3>
                         <ul class="footer-list">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="contact.html">Get in Touch</a></li>
-                            <li><a href="faqs.html">Help &amp; Faqs</a></li>
-                            <li><a href="faqs.html">Privacy Policy</a></li>
-                            <li><a href="contact.html">Support</a></li>
+                            <li><a href="about.php">About Us</a></li>
+                            <li><a href="contact.php">Get in Touch</a></li>
+                            <li><a href="faqs.php">Help &amp; Faqs</a></li>
+                            <li><a href="contact.php">Support</a></li>
                         </ul>
                     </div>
                 </div>
@@ -30,17 +28,17 @@
                         <h3>Information</h3>
                         <ul class="footer-list">
                             <li>
-                                <p>3770 Hidden Meadow Drive Venturia, ND 58489</p>
+                                <p>No 1 Pius Anolue Street, Nkwere Ogidi Anambra State Nigeria</p>
                             </li>
-                            <li><a href="tel:7045550127">(704) 555-0127</a></li>
-                            <li><a href="#">KaiserloweUGO@example.com</a></li>
+                            <li><a href="tel:2348104080042">+2348104080042</a></li>
+                            <li><a href="mailto:admin@kaiserloweugo.com">admin@kaiserloweugo.com</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="col-lg-3 col-sm-6 sm-padding">
                     <div class="footer-widget">
                         <h3>Subscribe Newslatters</h3>
-                        <form action="https://html.dynamiclayers.net/te/KaiserloweUGO/php/mailchimp-subscribe.php" id="ajax_mc_form" class="subscribe-form">
+                        <form action="" id="ajax_mc_form" class="subscribe-form">
                             <div class="mc-fields">
                                 <input id="mc_email" class="form-control" type="email" name="mc_email" placeholder="Your Email" required>
                                 <button class="submit"><i class="las la-long-arrow-alt-right"></i></button>
@@ -53,7 +51,7 @@
                 </div>
             </div>
             <div class="copyright-text">
-                © <span id="currentYear"></span> KaiserloweUGO, All Rights Reserved. Design By <a href="https://themeforest.net/user/themeeaster/portfolio" target="_blank">ThemeEaster</a>
+                © <span id="currentYear"></span> Set up and designed by<a href="https://bremwave.com" target="_blank"> Bremwave Technologies</a>
             </div>
         </div>
     </footer>

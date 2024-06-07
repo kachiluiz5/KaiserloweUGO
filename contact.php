@@ -1,16 +1,12 @@
 <!doctype html>
 
 <html class="no-js" lang="en">
-
-
-
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="KaiserloweUGO Construction and Building HTML5 Template">
-    <meta name="author" content="ThemeEaster">
+    <meta name="description" content="KaiserloweUGO Construction and Building ">
 
-    <title>Contact - KaiserloweUGO /title>
+    <title>Contact - KaiserloweUGO </title>
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
 

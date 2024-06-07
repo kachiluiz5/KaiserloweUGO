@@ -4,7 +4,7 @@
             <div class="section-heading text-center mb-40 wow fade-in-bottom" data-wow-delay="200ms">
                 <h3>Clients testimonials</h3>
                 <h2>What <span>clients say!</span></h2>
-                <p>Construction is a general term meaning the art and science to form <br>objects systems or organizations.</p>
+                <p>Hear From our clients who have Experience <br>and Enjoy our services.</p>
             </div>
             <div class="swiper-outside">
                 <div class="review-carousel">

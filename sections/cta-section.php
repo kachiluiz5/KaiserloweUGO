@@ -6,9 +6,9 @@
                     <div class="cta-box">
                         <div class="section-heading wow fade-in-left" data-wow-delay="200ms">
                             <h3>Lets talk with us!</h3>
-                            <h2>Serving since 1970 with <br> global <span>strategies.</span></h2>
+                            <h2>Serving since 2013 with <br> global <span>strategies.</span></h2>
                         </div>
-                        <div class="btn-wrap wow fade-in-right" data-wow-delay="400ms"><a href="#" class="default-btn">Get Solution</a></div>
+                        <div class="btn-wrap wow fade-in-right" data-wow-delay="400ms"><a href="contact.php" class="default-btn">Get Solution</a></div>
                     </div>
                 </div>
             </div>

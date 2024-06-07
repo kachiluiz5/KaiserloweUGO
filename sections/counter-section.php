@@ -51,7 +51,7 @@
             <div class="consultation-area row gx-0">
                 <div class="col-lg-6">
                     <div class="video-wrap">
-                        <a class="play-btn venobox vbox-item wow swing center" data-vbtype="video" href="https://www.youtube.com/watch?v=ZLaG1migE00">
+                        <a class="play-btn venobox vbox-item wow swing center" data-vbtype="video" href="#">
                             <span class="play-icon">
                                 <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
                                     <path fill="currentColor" d="M424.4 214.7L72.4 6.6C43.8-10.3 0 6.1 0 47.9V464c0 37.5 40.7 60.1 72.4 41.3l352-208c31.4-18.5 31.5-64.1 0-82.6z"></path>
@@ -62,7 +62,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="consultation-form">
-                        <form action="https://html.dynamiclayers.net/te/KaiserloweUGO/php/quote-form.php" method="post" id="ajax_quote_form" class="form-horizontal contact-form">
+                        <form action="#" method="post" id="ajax_quote_form" class="form-horizontal contact-form">
                             <div class="section-heading mb-40">
                                 <h3>Talk with us!</h3>
                                 <h2>Building with passion precision and <span>pride!</span></h2>
@@ -80,9 +80,9 @@
                                 <div class="form-field">
                                     <select id="q_services" name="q_services">
                                         <option value="">Select Industry</option>
-                                        <option value="Petroleum Gas Energy">Petroleum Gas Energy</option>
-                                        <option value="Construction Engineering">Construction Engineering</option>
-                                        <option value="Mechanical Engineering">Mechanical Engineering</option>
+                                        <option value="Petroleum Gas Energy">Realestate</option>
+                                        <option value="Construction Engineering">Project Development</option>
+                                        <option value="Mechanical Engineering">Facilities Management</option>
                                     </select>
                                 </div>
                                 <div class="form-field message">
