@@ -9,7 +9,7 @@
                 <div class="col-lg-4 col-md-6 wow fade-in-bottom" data-wow-delay="200ms">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-1.jpg" alt="post">
+                            <img src="assets/img/post-1.webp" alt="post">
                             <a href="blog-grid.html" class="post-category">Business</a>
                         </div>
                         <div class="post-content-wrap">
@@ -28,7 +28,7 @@
                 <div class="col-lg-4 col-md-6 wow fade-in-bottom" data-wow-delay="400ms">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-2.jpg" alt="post">
+                            <img src="assets/img/post-2.webp" alt="post">
                             <a href="blog-grid.html" class="post-category">Startup</a>
                         </div>
                         <div class="post-content-wrap">
@@ -47,7 +47,7 @@
                 <div class="col-lg-4 col-md-6 wow fade-in-bottom" data-wow-delay="600ms">
                     <div class="post-card">
                         <div class="post-thumb">
-                            <img src="assets/img/post-3.jpg" alt="post">
+                            <img src="assets/img/post-3.webp" alt="post">
                             <a href="blog-grid.html" class="post-category">Finance</a>
                         </div>
                         <div class="post-content-wrap">

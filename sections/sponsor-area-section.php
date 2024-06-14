@@ -2,19 +2,19 @@
         <div class="container">
             <div class="sponsor-grid">
                 <div class="sponsor-item">
-                    <a href="#"><img src="assets/img/sponsor01.png" alt="img"></a>
+                    <a href="#"><img src="assets/img/sponsor01.webp" alt="img"></a>
                 </div>
                 <div class="sponsor-item">
-                    <a href="#"><img src="assets/img/sponsor02.png" alt="img"></a>
+                    <a href="#"><img src="assets/img/sponsor02.webp" alt="img"></a>
                 </div>
                 <div class="sponsor-item">
-                    <a href="#"><img src="assets/img/sponsor03.png" alt="img"></a>
+                    <a href="#"><img src="assets/img/sponsor03.webp" alt="img"></a>
                 </div>
                 <div class="sponsor-item">
-                    <a href="#"><img src="assets/img/sponsor04.png" alt="img"></a>
+                    <a href="#"><img src="assets/img/sponsor04.webp" alt="img"></a>
                 </div>
                 <div class="sponsor-item">
-                    <a href="#"><img src="assets/img/sponsor05.png" alt="img"></a>
+                    <a href="#"><img src="assets/img/sponsor05.webp" alt="img"></a>
                 </div>
             </div>
         </div>

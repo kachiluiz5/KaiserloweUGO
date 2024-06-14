@@ -2,7 +2,7 @@
     <div class="container">
         <div class="main-header-wapper">
             <div class="site-logo">
-                <a href="index.php"><img src="assets/img/logo-light.png" alt="Logo"></a>
+                <a href="index.php"><img src="assets/img/logo-light.webp" alt="Logo"></a>
             </div>
             <div class="main-header-info">
                 <div class="top-header">

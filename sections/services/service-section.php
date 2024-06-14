@@ -5,7 +5,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-1.jpg" alt="thumb">
+                                <img src="assets/img/post-1.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -22,7 +22,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-2.jpg" alt="thumb">
+                                <img src="assets/img/post-2.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -39,7 +39,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-3.jpg" alt="thumb">
+                                <img src="assets/img/post-3.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -56,7 +56,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-4.jpg" alt="thumb">
+                                <img src="assets/img/post-4.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -73,7 +73,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-5.jpg" alt="thumb">
+                                <img src="assets/img/post-5.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -90,7 +90,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-6.jpg" alt="thumb">
+                                <img src="assets/img/post-6.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -107,7 +107,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-7.jpg" alt="thumb">
+                                <img src="assets/img/post-7.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -124,7 +124,7 @@
                     <div class="service-item">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-8.jpg" alt="thumb">
+                                <img src="assets/img/post-8.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">

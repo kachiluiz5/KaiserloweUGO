@@ -10,7 +10,7 @@
                     <div class="service-item wow fade-in-bottom" data-wow-delay="200ms">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-1.jpg" alt="thumb">
+                                <img src="assets/img/post-1.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -27,7 +27,7 @@
                     <div class="service-item wow fade-in-bottom" data-wow-delay="400ms">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-2.jpg" alt="thumb">
+                                <img src="assets/img/post-2.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -44,7 +44,7 @@
                     <div class="service-item wow fade-in-bottom" data-wow-delay="600ms">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-3.jpg" alt="thumb">
+                                <img src="assets/img/post-3.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">
@@ -61,7 +61,7 @@
                     <div class="service-item wow fade-in-bottom" data-wow-delay="800ms">
                         <div class="service-item-inner">
                             <div class="service-thumb">
-                                <img src="assets/img/post-4.jpg" alt="thumb">
+                                <img src="assets/img/post-4.webp" alt="thumb">
                             </div>
                             <div class="service-content">
                                 <div class="service-icon">

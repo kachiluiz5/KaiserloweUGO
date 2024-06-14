@@ -8,7 +8,7 @@
 
     <title>Projects | KaiserloweUGO</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.webp">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -82,7 +82,7 @@
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="project-thumb">
-                        <img src="assets/img/project-1.jpg" alt="img">
+                        <img src="assets/img/project-1.webp" alt="img">
                     </div>
                     <div class="project-details-content">
                         <h2 class="mt-30">Great Design That Actually Works!</h2>
@@ -109,8 +109,8 @@
                             </div>
                         </div>
                         <ul class="post-details-gallery">
-                            <li><img src="assets/img/post-1.jpg" alt="img"></li>
-                            <li><img src="assets/img/post-2.jpg" alt="img"></li>
+                            <li><img src="assets/img/post-1.webp" alt="img"></li>
+                            <li><img src="assets/img/post-2.webp" alt="img"></li>
                         </ul>
                         <h2 class="mt-30">Solution And Results:</h2>
                         <p>Unless you are the one who really cares about this, it is not terribly important. What all matters are how your hybrid mobile application development is going to work in the long run as no one will care about how it was built.</p>
@@ -145,7 +145,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="200ms">
                                 <div class="project-thumb">
-                                    <a class="venobox project-view" href="assets/img/project-1.jpg"><img src="assets/img/project-1.jpg" alt="img"></a>
+                                    <a class="venobox project-view" href="assets/img/project-1.webp"><img src="assets/img/project-1.webp" alt="img"></a>
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.html" class="category">Architecture</a>
@@ -156,7 +156,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="400ms">
                                 <div class="project-thumb">
-                                    <img src="assets/img/project-2.jpg" alt="img">
+                                    <img src="assets/img/project-2.webp" alt="img">
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.html" class="category">Building</a>
@@ -167,7 +167,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="600ms">
                                 <div class="project-thumb">
-                                    <img src="assets/img/project-3.jpg" alt="img">
+                                    <img src="assets/img/project-3.webp" alt="img">
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.html" class="category">Construction</a>
@@ -178,7 +178,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="700ms">
                                 <div class="project-thumb">
-                                    <img src="assets/img/project-4.jpg" alt="img">
+                                    <img src="assets/img/project-4.webp" alt="img">
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.html" class="category">Industrial</a>
@@ -189,7 +189,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="800ms">
                                 <div class="project-thumb">
-                                    <img src="assets/img/project-5.jpg" alt="img">
+                                    <img src="assets/img/project-5.webp" alt="img">
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.html" class="category">Factory</a>

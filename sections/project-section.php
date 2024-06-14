@@ -15,7 +15,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="200ms">
                                 <div class="project-thumb project-view">
-                                    <a class="venobox" href="assets/img/project-1.jpg" data-gall="projects"><img src="assets/img/project-1.jpg" alt="img"></a>
+                                    <a class="venobox" href="assets/img/project-1.webp" data-gall="projects"><img src="assets/img/project-1.webp" alt="img"></a>
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.php" class="category">Architecture</a>
@@ -26,7 +26,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="400ms">
                                 <div class="project-thumb project-view">
-                                    <a class="venobox" href="assets/img/project-2.jpg" data-gall="projects"><img src="assets/img/project-2.jpg" alt="img"></a>
+                                    <a class="venobox" href="assets/img/project-2.webp" data-gall="projects"><img src="assets/img/project-2.webp" alt="img"></a>
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.php" class="category">Building</a>
@@ -37,7 +37,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="600ms">
                                 <div class="project-thumb project-view">
-                                    <a class="venobox" href="assets/img/project-3.jpg" data-gall="projects"><img src="assets/img/project-3.jpg" alt="img"></a>
+                                    <a class="venobox" href="assets/img/project-3.webp" data-gall="projects"><img src="assets/img/project-3.webp" alt="img"></a>
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.php" class="category">Construction</a>
@@ -48,7 +48,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="700ms">
                                 <div class="project-thumb project-view">
-                                    <a class="venobox" href="assets/img/project-4.jpg" data-gall="projects"><img src="assets/img/project-4.jpg" alt="img"></a>
+                                    <a class="venobox" href="assets/img/project-4.webp" data-gall="projects"><img src="assets/img/project-4.webp" alt="img"></a>
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.php" class="category">Industrial</a>
@@ -59,7 +59,7 @@
                         <div class="swiper-slide">
                             <div class="project-item wow fade-in-bottom" data-wow-delay="800ms">
                                 <div class="project-thumb project-view">
-                                    <a class="venobox" href="assets/img/project-5.jpg" data-gall="projects"><img src="assets/img/project-5.jpg" alt="img"></a>
+                                    <a class="venobox" href="assets/img/project-5.webp" data-gall="projects"><img src="assets/img/project-5.webp" alt="img"></a>
                                 </div>
                                 <div class="project-content">
                                     <a href="projects.php" class="category">Factory</a>

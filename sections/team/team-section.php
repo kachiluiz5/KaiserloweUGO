@@ -5,7 +5,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-1.jpg" alt="thumb">
+                            <img src="assets/img/team-1.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -22,7 +22,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-2.jpg" alt="thumb">
+                            <img src="assets/img/team-2.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -39,7 +39,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-3.jpg" alt="thumb">
+                            <img src="assets/img/team-3.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -56,7 +56,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-4.jpg" alt="thumb">
+                            <img src="assets/img/team-4.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -73,7 +73,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-5.jpg" alt="thumb">
+                            <img src="assets/img/team-5.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -90,7 +90,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-6.jpg" alt="thumb">
+                            <img src="assets/img/team-6.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -107,7 +107,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-7.jpg" alt="thumb">
+                            <img src="assets/img/team-7.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -124,7 +124,7 @@
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-8.jpg" alt="thumb">
+                            <img src="assets/img/team-8.webp" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>

@@ -15,8 +15,8 @@
                 </div>
                 <div class="col-lg-5">
                     <div class="about-img-wrap flip">
-                        <img class="wow fade-in-right" data-wow-delay="200ms" src="assets/img/about03.jpg" alt="img">
-                        <img class="wow fade-in-bottom" data-wow-delay="400ms" src="assets/img/about04.jpg" alt="img">
+                        <img class="wow fade-in-right" data-wow-delay="200ms" src="assets/img/about03.webp" alt="img">
+                        <img class="wow fade-in-bottom" data-wow-delay="400ms" src="assets/img/about04.webp" alt="img">
                         <div class="faq-from">
                             <div class="wow fade-in-right" data-wow-delay="400ms">
                                 <h2><span>From</span>2013</h2>

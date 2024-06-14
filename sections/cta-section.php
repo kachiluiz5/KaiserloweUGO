@@ -1,5 +1,5 @@
 <section class="cta-area">
-        <div class="cta-img"><img src="assets/img/cta-background-3.jpg" alt="img"><i class="ci ci-tools"></i></div>
+        <div class="cta-img"><img src="assets/img/cta-background-3.webp" alt="img"><i class="ci ci-tools"></i></div>
         <div class="container">
             <div class="row">
                 <div class="col-lg-8 offset-lg-4">

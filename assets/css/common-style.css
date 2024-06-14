@@ -763,7 +763,7 @@ button {
 }
 
 .page-header-bg {
-    background-image: url(../img/page-header.jpg);
+    background-image: url(../img/page-header.webp);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -899,7 +899,7 @@ button {
 
 /*Map Pattern*/
 .map-pattern {
-    background-image: url(../img/map-pattern-2.png);
+    background-image: url(../img/map-pattern-2.webp);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: 90%;
@@ -913,7 +913,7 @@ button {
 
 /*Square Pattern*/
 .square-pattern {
-    background-image: url(../img/square-pattern.png);
+    background-image: url(../img/square-pattern.webp);
     background-repeat: repeat;
     position: absolute;
     left: 0;
@@ -923,7 +923,7 @@ button {
 
 /*Wave Line Pattern*/
 .wave-line {
-    background-image: url(../img/wave-line.png);
+    background-image: url(../img/wave-line.webp);
     background-repeat: no-repeat;
     background-size: 90%;
     width: 100%;
@@ -936,7 +936,7 @@ button {
 
 /*Bg Pattern*/
 .bg-pattern {
-    background-image: url(../img/background-pattern.png);
+    background-image: url(../img/background-pattern.webp);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;

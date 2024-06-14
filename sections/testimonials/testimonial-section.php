@@ -4,7 +4,7 @@
             <div class="row gy-5">
                 <div class="col-lg-6">
                     <div class="review-item">
-                        <div class="review-thumb"><img src="assets/img/team-1.jpg" alt="thumb"></div>
+                        <div class="review-thumb"><img src="assets/img/team-1.webp" alt="thumb"></div>
                         <div class="review-content">
                             <i class="las la-quote-right quote"></i>
                             <ul class="rattings">
@@ -24,7 +24,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="review-item">
-                        <div class="review-thumb"><img src="assets/img/team-2.jpg" alt="thumb"></div>
+                        <div class="review-thumb"><img src="assets/img/team-2.webp" alt="thumb"></div>
                         <div class="review-content">
                             <i class="las la-quote-right quote"></i>
                             <ul class="rattings">
@@ -44,7 +44,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="review-item">
-                        <div class="review-thumb"><img src="assets/img/team-3.jpg" alt="thumb"></div>
+                        <div class="review-thumb"><img src="assets/img/team-3.webp" alt="thumb"></div>
                         <div class="review-content">
                             <i class="las la-quote-right quote"></i>
                             <ul class="rattings">
@@ -64,7 +64,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="review-item">
-                        <div class="review-thumb"><img src="assets/img/team-4.jpg" alt="thumb"></div>
+                        <div class="review-thumb"><img src="assets/img/team-4.webp" alt="thumb"></div>
                         <div class="review-content">
                             <i class="las la-quote-right quote"></i>
                             <ul class="rattings">

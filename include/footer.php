@@ -3,7 +3,7 @@
             <div class="row footer-area">
                 <div class="col-lg-3 col-sm-6 sm-padding">
                     <div class="footer-widget">
-                        <a class="footer-logo" href="index.html"><img src="assets/img/logo-light.png" alt="logo"></a>
+                        <a class="footer-logo" href="index.html"><img src="assets/img/logo-light.webp" alt="logo"></a>
                         <p>Our success in creating business solutions is due in part spacially to talented committed team.</p>
                         <ul class="footer-social">
                             <li><a href="#"><i class="lab la-facebook-f"></i></a></li>

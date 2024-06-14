@@ -8,7 +8,7 @@
 
     <title>Projects | KaiserloweUGO</title>
 
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.webp">
 
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -58,7 +58,7 @@
                 <div class="col-lg-8 sm-padding">
                     <div class="service-details-wrap">
                         <div class="project-thumb">
-                            <img src="assets/img/post-1.jpg" alt="img">
+                            <img src="assets/img/post-1.webp" alt="img">
                         </div>
                         <div class="service-details-content">
                             <h2 class="mt-30">Great design that actually works!</h2>
@@ -85,8 +85,8 @@
                                 </div>
                             </div>
                             <ul class="post-details-gallery">
-                                <li><img src="assets/img/post-1.jpg" alt="img"></li>
-                                <li><img src="assets/img/post-2.jpg" alt="img"></li>
+                                <li><img src="assets/img/post-1.webp" alt="img"></li>
+                                <li><img src="assets/img/post-2.webp" alt="img"></li>
                             </ul>
                             <h2 class="mt-30">Solution And Results:</h2>
                             <p>Unless you are the one who really cares about this, it is not terribly important. What all matters are how your hybrid mobile application development is going to work in the long run as no one will care about how it was built.</p>
@@ -158,7 +158,7 @@
                         </div>
                     </div>
                     <div class="sidebar-ads">
-                        <a href="#"><img src="assets/img/ads.jpg" alt="ads"></a>
+                        <a href="#"><img src="assets/img/ads.webp" alt="ads"></a>
                     </div>
                 </div>
             </div>
