@@ -1,5 +1,8 @@
 <header class="main-header">
+
     <div class="container">
+
+
         <div class="main-header-wapper">
             <div class="site-logo">
                 <a href="index.php"><img src="assets/img/logo-light.webp" alt="Logo"></a>
@@ -7,7 +10,7 @@
             <div class="main-header-info">
                 <div class="top-header">
                     <ul class="top-left">
-                        <li><i class="las la-phone-volume"></i><a href="tel:5267214392">+2348104080042</a></li>
+                        <li><i class="las la-phone-volume"></i><a href="tel:5267214392">+2348172379105</a></li>
                         <li><i class="las la-envelope-open"></i>info@kaiserloweugo.com</li>
 
                     </ul>
@@ -59,6 +62,7 @@
                             <li><a href="#"><i class="lab la-pinterest"></i></a></li>
                             <li><a href="#"><i class="lab la-linkedin-in"></i></a></li>
                         </ul>
+                        
                     </div>
                 </div>
                 <!--/.top-header-->
@@ -76,6 +80,8 @@
                         <li>
                             <a href="projects.php">Projects</a>
                         </li>
+                        <li><a href="services.php">Services</a></li>
+                        <li><a href="trainings.php">Training</a></li>
                         <li><a href="contact.php">Contact</a></li>
                     </ul>
                     <div class="menu-right-item">

@@ -1,7 +1,8 @@
 <!doctype html>
 <html class="no-js" lang="en">
+
 <head>
-<meta charset="utf-8">
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="KaiserloweUGO Construction and Building Company">
     <meta name="author" content="">
@@ -22,6 +23,14 @@
     <link rel="stylesheet" href="assets/css/slider.css">
     <link rel="stylesheet" href="assets/css/common-style.css">
     <link rel="stylesheet" href="assets/css/main.css">
+
+    <style>
+        @media (max-width: 767px) {
+    .hero-section {
+        height: 100vh;
+    }
+}
+    </style>
 
 </head>
 
@@ -47,7 +56,10 @@
     <?php include('sections/about-section.php'); ?>
     <!--/.about-section-->
 
-    <?php include('sections/service-section.php'); ?>
+
+
+    <?php include('sections/training-section.php'); ?>
+    <!-- blog setion but will be used for training -->
 
     <!--/.service-section-->
 
@@ -84,4 +96,3 @@
     <?php include('include/footer.php'); ?>
 
     <!--/.footer-section-->
-

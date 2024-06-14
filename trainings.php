@@ -6,7 +6,7 @@
     <meta name="description" content="KaiserloweUGO Construction and Building Company">
     <meta name="author" content="">
 
-    <title>Our Services - KaiserloweUGO  </title>
+    <title>Our Trainings - KaiserloweUGO  </title>
 
     <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.webp">
 
@@ -42,11 +42,11 @@
     <div id="searchbox-overlay"></div>
 
 
-    <?php include('sections/services/service-hero-section.php'); ?>
+    <?php include('sections/trainings/training-hero-section.php'); ?>
 
     <!--page-header-->
 
-    <?php include('sections/services/service-section.php'); ?>
+    <?php include('sections/trainings/training-section.php'); ?>
 
     <!--/.service-section-->
 

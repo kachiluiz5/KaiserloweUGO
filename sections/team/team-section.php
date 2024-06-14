@@ -2,7 +2,7 @@
         <div class="wave-line"></div>
         <div class="container">
             <div class="row gy-4">
-                <div class="col-lg-3 col-md-6">
+                <!-- <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
                             <img src="assets/img/team-1.webp" alt="thumb">
@@ -120,11 +120,13 @@
                             <h3><a href="team-details.html">Timothy Paradis</a></h3>
                         </div>
                     </div>
-                </div>
+                </div> -->
+
+
                 <div class="col-lg-3 col-md-6">
                     <div class="team-item">
                         <div class="team-thumb">
-                            <img src="assets/img/team-8.webp" alt="thumb">
+                            <img src="assets/img/ceo.jpg" alt="thumb">
                             <ul class="team-social">
                                 <li><a href="#"><i class="lab la-facebook-f"></i></a></li>
                                 <li><a href="#"><i class="lab la-twitter"></i></a></li>
@@ -133,8 +135,8 @@
                             </ul>
                         </div>
                         <div class="team-content">
-                            <h4 class="position">Site Engineer</h4>
-                            <h3><a href="team-details.html">Félix Lengyel</a></h3>
+                            <h4 class="position">CEO</h4>
+                            <h3><a href="#">.....</a></h3>
                         </div>
                     </div>
                 </div>

@@ -9,9 +9,10 @@
                             <p>Our success in creating business solutions is due in large part spacially to talented and highly committed team.</p>
                         </div>
                         <ul class="contact-details">
-                            <li><i class="las la-map-marked-alt"></i>No 1 Pius Anolue Street,<br> Nkwere Ogidi Anambra State Nigeria</li>
+                            <li><i class="las la-map-marked-alt"></i>15 Association Road Apeka Estate,<br>  ikorodu Kingdom Lagos State Nigeria
+                            </li>
                             <li><i class="las la-envelope-open"></i>admin@kaiserloweugo.com <br>info@kaiserloweugo.com</li>
-                            <li><i class="las la-phone-volume"></i>+2348104080042 <br>+49 176 36135504</li>
+                            <li><i class="las la-phone-volume"></i>+2348172379105</li>
                         </ul>
                     </div>
                 </div>

@@ -28,9 +28,10 @@
                         <h3>Information</h3>
                         <ul class="footer-list">
                             <li>
-                                <p>No 1 Pius Anolue Street, Nkwere Ogidi Anambra State Nigeria</p>
+                                <p>15 Association Road Apeka Estate ikorodu Kingdom Lagos State Nigeria
+                                </p>
                             </li>
-                            <li><a href="tel:2348104080042">+2348104080042</a></li>
+                            <li><a href="tel:2348104080042">+2348172379105</a></li>
                             <li><a href="mailto:admin@kaiserloweugo.com">admin@kaiserloweugo.com</a></li>
                         </ul>
                     </div>
@@ -51,7 +52,7 @@
                 </div>
             </div>
             <div class="copyright-text">
-                © <span id="currentYear"></span> Set up and designed by<a href="https://bremwave.com" target="_blank"> Bremwave Technologies</a>
+                © <span id="currentYear"></span> <a href="#" target="_blank"> Kaiserloweugo</a>
             </div>
         </div>
     </footer>
