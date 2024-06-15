@@ -82,7 +82,6 @@
                         </li>
                         <li><a href="services.php">Services</a></li>
                         <li><a href="trainings.php">Training</a></li>
-                        <li><a href="contact.php">Contact</a></li>
                     </ul>
                     <div class="menu-right-item">
                         <div class="mobile-menu-icon">

@@ -136,7 +136,7 @@
                         </div>
                         <div class="team-content">
                             <h4 class="position">CEO</h4>
-                            <h3><a href="#">.....</a></h3>
+                            <h3><a href="#">Christopher Okonkwo</a></h3>
                         </div>
                     </div>
                 </div>
